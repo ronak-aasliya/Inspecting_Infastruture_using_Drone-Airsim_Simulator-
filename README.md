@@ -1,6 +1,6 @@
 <h2>Requirments :</h2>
 <h3>Airsim Simulator</h3> 
-<h3>dependencies : ultralytics opencv-python pyyaml</h3>
+<h3>dependencies : ultralytics </br> opencv-python </br> pyyaml</h3>
 </br>
 <h2>Run Commands : </h2> 
 <h3>python live_detection.py (arisim simulator should be active for drone detection)</h3>
