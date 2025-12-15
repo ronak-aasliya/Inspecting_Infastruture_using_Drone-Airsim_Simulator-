@@ -4,4 +4,4 @@
 </br>
 <h2>Run Commands : </h2> 
 <h3>python live_detection.py (arisim simulator should be active for drone detection)</h3>
-<h3>python video_detection_live.py <video_name_with_format> <cofindence (0.0 to 1.0)></h3>
+<h3>python video_detection_live.py &lt;video_name_with_format&gt; &lt;cofindence (0.0 to 1.0)&gt;</h3>
